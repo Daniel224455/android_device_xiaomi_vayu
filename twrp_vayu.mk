@@ -30,5 +30,5 @@ $(call inherit-product, device/xiaomi/vayu/device.mk)
 PRODUCT_DEVICE := vayu
 PRODUCT_NAME := twrp_vayu
 PRODUCT_BRAND := POCO
-PRODUCT_MODEL := M2102J20SG
+PRODUCT_MODEL := PROTO_VAYU
 PRODUCT_MANUFACTURER := Xiaomi
